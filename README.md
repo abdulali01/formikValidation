@@ -25,7 +25,6 @@ validate: values => {
       return errors;
     }
 
-
 Project's license.
 1. Node.js need to be installed on your machine.  Ensure you're able to run your first or one of many projects.
 2. Personal learning recommendation - Get use to NPM commands.  :-)
@@ -35,3 +34,6 @@ Project's license.
 Next Projection Changes:
 Showcase how to integration this simply with complex application.  Continue to enhance it.
 Make improvment to the App.js file and add functionality.  
+
+Please Visit: https://github.com/abdulali01/formikValidation/tree/main for the main branch to review the details.
+Contact: abdullah.ali1@gmail.com
